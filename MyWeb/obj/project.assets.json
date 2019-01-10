@@ -11508,11 +11508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DcTenXen0621\\Data\\School\\107-1-SoftWare_Engerneering\\MyWeb\\MyWeb\\MyWeb.csproj",
+      "projectUniqueName": "D:\\DcTenXen0621\\Data\\School\\107-1-SoftWare_Engerneering\\Final\\MyWeb\\MyWeb.csproj",
       "projectName": "MyWeb",
-      "projectPath": "D:\\DcTenXen0621\\Data\\School\\107-1-SoftWare_Engerneering\\MyWeb\\MyWeb\\MyWeb.csproj",
+      "projectPath": "D:\\DcTenXen0621\\Data\\School\\107-1-SoftWare_Engerneering\\Final\\MyWeb\\MyWeb.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\DcTenXen0621\\Data\\School\\107-1-SoftWare_Engerneering\\MyWeb\\MyWeb\\obj\\",
+      "outputPath": "D:\\DcTenXen0621\\Data\\School\\107-1-SoftWare_Engerneering\\Final\\MyWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
